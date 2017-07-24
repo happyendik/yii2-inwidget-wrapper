@@ -1,0 +1,18 @@
+{
+  "name": "happyendik/yii2-inwidget-wrapper",
+  "description": "",
+  "homepage": "https://github.com/happyendik/yii2-inwidget-wrapper",
+  "type": "yii2-extension",
+  "license": "mit",
+  "authors": [
+    {
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "happyendik\\": ""
+    }
+  }
+}
